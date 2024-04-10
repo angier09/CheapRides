@@ -9,9 +9,9 @@ Our commitment to providing top-notch customer service sets us apart. Navigating
 
 Safety is our utmost priority, and we go the extra mile to ensure that every ride with us is secure and trustworthy. Our fleet is meticulously inspected and maintained, meeting the highest safety standards. Additionally, all our drivers undergo rigorous background checks, ensuring that you can trust the person behind the wheel. We believe in fostering a sense of reliability and security, making your journey not just convenient but also worry-free.
 
-FrontEnd: React
-Backend: Express Js, Node.js
-Database: PostgreSQL
+FrontEnd: React <br>
+Backend: Express Js, Node.js <br>
+Database: PostgreSQL <br>
 
 Group Member:
 20F-0101 Muhammad Abubakar Siddique 
