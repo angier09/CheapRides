@@ -3,8 +3,8 @@ import './Home.css'
 
 const Home = () => {
     return(
-        <div className='hume'>
-            Home
+        <div className=''>
+            
         </div>
     )
 }
