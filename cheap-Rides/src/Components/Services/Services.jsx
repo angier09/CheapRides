@@ -1,12 +1,12 @@
-import React from "react"
-import './Reviews.css'
+import React from 'react'
+import './Services.css'
 
-const Reviews = () => {
+const Services = () => {
     return(
-        <div className='hume'>
-            Home
+        <div className=''>
+            
         </div>
     )
 }
 
-export default Reviews
+export default Services

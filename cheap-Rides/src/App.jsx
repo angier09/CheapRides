@@ -1,19 +1,19 @@
-import React from "react";
+import React from 'react';
 import './App.css'
 
 // import components into App component
-import Home from './Components/Home/Home'
 import Navbar from "./Components/Navbar/Navbar";
+import Home from './Components/Home/Home'
+import Services from "./Components/Services/Services";
 import Reviews from "./Components/Reviews/Reviews";
 import About from "./Components/About/About";
 import Footer from "./Components/Footer/Footer";
 
 const App = () => {
     return(
-        <div class="title">
+        <div>
             <Navbar/>
             <Home/>
-            <Ride/>
             <Services/>
             <Reviews/>
             <About/>
